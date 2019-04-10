@@ -83,7 +83,7 @@ if __name__ == '__main__':
 
     print('Switch between these at any point in the video')
 
-    cap = cv2.VideoCapture('highwayDash.mp4')
+    cap = cv2.VideoCapture('Videos/highwayDash.mp4')
 
     averagedLines = None
 
